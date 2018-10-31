@@ -3,6 +3,7 @@ package singleton;
 public class SingletonImp {
 	static private SingletonImp single_instance = null;
 	String a;
+	// dummy comments 
 	
 	
 	private SingletonImp() {
